@@ -1,0 +1,160 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #dfe3ee;
+}
+
+.all {
+    margin: 0;
+    padding: 0;
+    background-color: #dfe3ee;
+    height: 500px;
+    width: 100%;
+}
+
+.textbox {
+    margin-top: 200px;
+    margin-left: 150px;
+
+}
+
+h1 {
+    font-size: 55px;
+    color: #1877f2;
+    font-family: sans-serif;
+}
+
+h2 {
+    font-family: sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+}
+
+.container {
+
+    width: 400px;
+    height: 350px;
+    margin-top: -194px;
+    margin-right: 160px;
+    float: right;
+    border-radius: 12px;
+    background-color: white;
+    width: 390px;
+    height: 355px;
+    text-align: center;
+
+
+}
+
+.form {
+    float: right;
+    background-color: white;
+    margin-top: -12px;
+    padding: 20px;
+    border: none;
+}
+
+.form input {
+    margin-top: 10px;
+    margin-left: -10px;
+    border-radius: 8px;
+    margin-right: -10px;
+    padding: 17px;
+    width: 332px;
+    border: none;
+    background-color: white;
+    border: 1px solid;
+    border-color: gray;
+
+}
+
+button {
+    margin-top: 15px;
+    background-color: #1877f2;
+    padding: 16px;
+    width: 100%;
+    border-radius: 8px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 18px;
+    border: none;
+
+}
+
+.txt {
+    margin-left: 850px;
+    margin-top: 180px;
+}
+
+.txt a {
+    text-decoration: none;
+    color: black;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+}
+
+p {
+    background-color: white;
+    font-size: 16px;
+    color: #1877f2;
+    margin-top: 10px;
+}
+
+p a {
+    color: #1877f2;
+    background-color: white;
+    text-decoration: none;
+}
+
+.btn {
+    padding: 7px;
+    margin-top: 15px;
+    background-color: white;
+    margin-left: 60px;
+    margin-right: 60px;
+    border: none;
+}
+
+.btn button {
+    background-color: #1b9c24;
+    border: none;
+
+}
+
+.para1 {
+    font-weight: bold;
+    color: black;
+    font-size: 14px;
+}
+
+.footer {
+    width: 100%;
+    height: 250px;
+    background: white;
+    position: relative;
+    display: inline-block
+}
+
+.foot1 {
+    position: relative;
+
+
+}
+
+.unorder {
+    position: absolute;
+    margin-top: 40px;
+    padding: 0 15px;
+    font-size: 15px;
+    float: left;
+    background: none;
+    text-decoration: none;
+    margin-left: 180px;
+    color: gray;
+}
+
+.foot2 {
+    margin-top: 60px;
+}
